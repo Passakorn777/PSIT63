@@ -13,4 +13,4 @@ line_chart = pg.HorizontalBar()
 line_chart.title = 'Top 20 Pro Player with the highest reward prize (in Dollars)' # graph name
 for i in data_100_prize:
     line_chart.add(i[0], i[1]) # create
-line_chart.render_to_file('Top-100-Highest-Overall-Earnings.csv') # export file svg
+line_chart.render_to_file('Top-100-Highest-Overall-Earnings.svg') # export file svg
