@@ -1,4 +1,5 @@
-import pandas as pd
-data = pd.read_excel (r'DATA.xlsx')
-#Storage of Trend, Prize And Tournaments
-print(data)
+# -*- coding: utf-8 -*-
+import xlrd
+
+# Open the file
+wb = xlrd.open_workbook('DATA.xlsx')
