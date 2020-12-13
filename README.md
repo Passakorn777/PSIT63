@@ -1,6 +1,15 @@
 # Data Analysis: e-sport
 <th><img src="MGI/ESP.png"</th>
-<th> display: inline-block <img src="MGI/GIF.gif", <img src="MGI/GIF2.gif"</th>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+<h1 id="myHeader">My Cities</h1>
+<th><img src="MGI/GIF.gif"</th>
+<th><img src="MGI/GIF2.gif"</th>
   
 # Project Description
 
