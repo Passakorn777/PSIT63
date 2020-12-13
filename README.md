@@ -22,11 +22,6 @@
   <th><p align="center">Jakkrapat Suwanno</p></th>
   <th><p align="center">Wanatharn Kongkaew</p></th>
  </tr>
- <tr>
-  <th><p align="center">61070018</p></th>
-  <th><p align="center">61070020</p></th>
-  <th><p align="center">61070022</p></th>
-  <th><p align="center">61070195</p></th>
  </table></center>    
 # References
 <a href=https://github.com/tanknk/PSIT-Project/>Project eSports Analysis</a><br />
