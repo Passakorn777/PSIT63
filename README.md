@@ -6,12 +6,20 @@
      ที่สามารถใช้เป็นกีฬาทางอิเล็กทรอนิกส์หรือที่เรามักเรียกกันว่า e-sportนัั้นเอง
 # Project Objective
      จุดประสงค์ของโปรเจ็คนี้คือ
-     1. เพื่อศึกษาภาษา Python 
-     2.
-     3.
-     4.
-     5.
-     6.
+     1. เพื่อศึกษาภาษา Python การใช้ pandas, pygal การใช้ไฟล์สกุล.csv และไฟล์สกุล.svg
+     2. เพื่อนำข้อมูลที่ได้ศึกษา มาใช้ในการทำ project และ นำไปประยุต์ใช้ในการทำเว็บ
+     3. เพื่อฝึกฝนการทำงานเป็นทีม
+     4. เพื่อศึกษาข้อมูลเกี่ยวกับ e-sport
+     5. เพื่อสร้างโปรเจ็คที่สามารถนำไปต่อยอดได้
 # Result
+     - Project :
+     - Video :
 # Member
+     
 # References
+<a href=http://database.esportsobserver.com/>TEO Professional</a><br />
+<a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
+<br />
+<br />
+
+<a href=https://forthebadge.com/><img src="images/made-with-python.svg"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=https://forthebadge.com/><img src="images/uses-html.svg"></a>
