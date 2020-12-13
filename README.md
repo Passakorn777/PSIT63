@@ -17,10 +17,10 @@
 # Member
 <center><table>
   <tr>
-  <th><img src="MGI/ARM.jpg" height="500" width="150"></th>
-  <th><img src="MGI/KIM.jpg" height="500" width="150"></th>
-  <th><img src="MGI/ong.jpg" height="300" width="150"></th>
-  <th><img src="MGI/tun.jpg" height="300" width="150"></th>
+  <th><img src="MGI/ARM.jpg" height="200" width="150"></th>
+  <th><img src="MGI/KIM.jpg" height="200" width="150"></th>
+  <th><img src="MGI/ong.jpg" height="200" width="150"></th>
+  <th><img src="MGI/tun.jpg" height="200" width="150"></th>
  </tr>
  <tr>
   <th><p align="center">Kesaranee Trisawatwong</p></th> 
@@ -28,7 +28,8 @@
   <th><p align="center">Jakkrapat Suwanno</p></th>
   <th><p align="center">Wanatharn Kongkaew</p></th>
  </tr>
- </table></center>    
+ </table></center>
+ <br />
 # References
 <a href=https://github.com/tanknk/PSIT-Project/>Project eSports Analysis</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a><br /><br />
