@@ -1,6 +1,7 @@
 # Data Analysis: e-sport
 
 <img src="MGI/ESP.png">
+
 <style> 
 #12345{
   display: inline-block;
