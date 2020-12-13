@@ -19,3 +19,6 @@
 # References
 <a href=https://github.com/tanknk/PSIT-Project/>Project eSports Analysis</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
+<a href=https://https://medium.com/@sinlapachai.hon/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-python-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-pandas-%E0%B8%81%E0%B8%B1%E0%B8%99-2f5049640e70/>Pandas in Python</a>
+<a href=https://www.somkiat.cc/cleaning-data-with-pandas/>Pandas library</a>
+<a href=https://youtu.be/NWSckTiUq_E/>Pandas:Plot Styles</a>
