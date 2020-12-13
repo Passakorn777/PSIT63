@@ -17,10 +17,10 @@
 # Member
 <center><table>
   <tr>
-  <th><img src="MGI/ARM.jpg" height="200" width="150"></th>
-  <th><img src="MGI/KIM.jpg" height="200" width="150"></th>
-  <th><img src="MGI/ong.jpg" height="200" width="150"></th>
-  <th><img src="MGI/tun.jpg" height="200" width="150"></th>
+  <th><img src="MGI/ARM.jpg" height="250" width="150"></th>
+  <th><img src="MGI/KIM.jpg" height="250" width="150"></th>
+  <th><img src="MGI/ong.jpg" height="250" width="150"></th>
+  <th><img src="MGI/tun.jpg" height="250" width="150"></th>
  </tr>
  <tr>
   <th><p align="center">Kesaranee Trisawatwong</p></th> 
