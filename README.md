@@ -26,8 +26,8 @@
   
 # Result
 
-     - Project :
-     - Video :
+- Project : <a href=https://www.esportsearnings.com/>Project</a><br /><br />
+- Video : <a href=https://www.esportsearnings.com/>Video</a><br /><br />
      
 # Member
 
