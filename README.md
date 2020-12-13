@@ -3,8 +3,8 @@
   <th><img src="MGI/ESP.png"</th>
 <center><table>
  <tr>
-  <th><img src="MGI/GIF.gif" height="250" width="150"></th>
-  <th><img src="MGI/GIF2.gif" height="250" width="160"></th>
+  <th><img src="MGI/GIF.gif" height="300" width="500"></th>
+  <th><img src="MGI/GIF2.gif" height="300" width="500"></th>
  </tr>
 </table></center>
   
