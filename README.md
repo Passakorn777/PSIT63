@@ -17,5 +17,5 @@
 # Member
      
 # References
-<a href=http://database.esportsobserver.com/>TEO Professional</a><br />
+<a href=https://github.com/tanknk/PSIT-Project/>Project eSports Analysis</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
