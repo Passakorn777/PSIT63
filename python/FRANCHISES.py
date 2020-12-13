@@ -3,7 +3,7 @@ import pygal as pg
 from pygal.style import Style
 custom_style = Style(
 background= '#0e4448',
-colors= ('#93d2d9', '#93d2d9', '#93d2d9', '#93d2d9', '#93d2d9', '#93d2d9', '#93d2d9', '#93d2d9'),
+colors= ('#93d2d9', '#ef940f', '#8C6243', '#fff', '#48b3be', '#f4b456', '#b68866', '#FF0000'),
 foreground= 'rgba(255, 255, 255, 0.9)',
 foreground_strong= 'rgba(255, 255, 255, 0.9)',
 foreground_subtle= 'rgba(255, 255 , 255, 0.5)',
