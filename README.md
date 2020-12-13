@@ -1,6 +1,7 @@
 # Data Analysis: e-sport
 <th><img src="MGI/ESP.png"</th>
 <style>
+  
 #myHeader {
   background-color: lightblue;
   color: black;
