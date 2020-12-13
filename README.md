@@ -23,11 +23,16 @@
   <th><img src="MGI/tun.jpg" height="250" width="150"></th>
  </tr>
  <tr>
-  <th><p align="center">Kesaranee Trisawatwong</p></th> 
+  <th><p align="center">ยุทธนา พงษ์เผือก</p></th> 
   <th><p align="center">Kunakorn Kositsakul</p></th>
   <th><p align="center">Jakkrapat Suwanno</p></th>
   <th><p align="center">Wanatharn Kongkaew</p></th>
  </tr>
+ <tr>
+  <th><p align="center">Student ID 63070143</p></th>
+  <th><p align="center">Student ID 63070143</p></th>
+  <th><p align="center">Student ID 63070143</p></th>
+  <th><p align="center">Student ID 63070143</p></th>
  </table></center>
 # References
 
