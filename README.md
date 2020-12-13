@@ -28,8 +28,7 @@
   <th><p align="center">Jakkrapat Suwanno</p></th>
   <th><p align="center">Wanatharn Kongkaew</p></th>
  </tr>
- </table></center>
- <br />
+ </table></center><br />
 # References
 <a href=https://github.com/tanknk/PSIT-Project/>Project eSports Analysis</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a><br /><br />
