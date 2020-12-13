@@ -15,7 +15,19 @@
      - Project :
      - Video :
 # Member
-     
+<center><table>
+ <tr>
+  <th><p align="center">Kesaranee Trisawatwong</p></th> 
+  <th><p align="center">Kunakorn Kositsakul</p></th>
+  <th><p align="center">Jakkrapat Suwanno</p></th>
+  <th><p align="center">Wanatharn Kongkaew</p></th>
+ </tr>
+ <tr>
+  <th><p align="center">61070018</p></th>
+  <th><p align="center">61070020</p></th>
+  <th><p align="center">61070022</p></th>
+  <th><p align="center">61070195</p></th>
+ </table></center>    
 # References
 <a href=https://github.com/tanknk/PSIT-Project/>Project eSports Analysis</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a><br /><br />
