@@ -1,5 +1,5 @@
 # Data Analysis: e-sport
-<th><img src="MGI/ESP.png>"</th>
+<th><img src="MGI/ESP.png"</th>
 <th><img src="MGI/GIF.gif"style="width:50%"></th>
 <th><img src="MGI/GIF2.gif"style="width:50%"></th>
   
