@@ -26,7 +26,7 @@
   
 # Result
 
-- Project : <a href=https://passakorn777.github.io/PSIT63/?fbclid=IwAR2g4ExSq6yexNKOR30L4hcv_YIUfXizFDob_t7d5KT9qhdWOPXiBVhwdq0/>Website<</a><br /><br />
+- Project : <a href=https://passakorn777.github.io/PSIT63/?fbclid=IwAR2g4ExSq6yexNKOR30L4hcv_YIUfXizFDob_t7d5KT9qhdWOPXiBVhwdq0/>Website</a><br /><br />
 - Video : <a href=https://www.esportsearnings.com/>Youtube</a><br /><br />
      
 # Member
