@@ -1,8 +1,10 @@
 # Data Analysis: e-sport
 
-  <th><img src="MGI/ESP.png" height="260" width="150"></th>
-  <th><img src="MGI/GIF.gif" height="250" width="150"></th>
-  <th><img src="MGI/GIF2.gif" height="250" width="160"></th>
+  <th><img src="MGI/ESP.png"</th>
+  <tr>
+  <th><img src="MGI/GIF.gif"</th>
+  <th><img src="MGI/GIF2.gif"</th>
+  </tr>
   
 # Project Description
 
