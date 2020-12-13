@@ -1,7 +1,7 @@
 # Data Analysis: e-sport
 <img src="MGI/ESP.png">
-<img src="MGI/GIF.gif"style="width:300px; display:inline-block; ">
-<img src="MGI/GIF2.gif"style="style="width:300px; display:inline-block; ">
+<img src="MGI/GIF.gif"id="12345">
+<img src="MGI/GIF2.gif"id="23456">
   
 # Project Description
 
