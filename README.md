@@ -19,7 +19,3 @@
 # References
 <a href=http://database.esportsobserver.com/>TEO Professional</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
-<br />
-<br />
-
-<a href=https://forthebadge.com/><img src="images/made-with-python.svg"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=https://forthebadge.com/><img src="images/uses-html.svg"></a>
