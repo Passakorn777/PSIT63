@@ -19,7 +19,7 @@
   <tr>
   <th><img src="MGI/ARM.jpg" height="260" width="150"></th>
   <th><img src="MGI/KIM.jpg" height="250" width="150"></th>
-  <th><img src="MGI/ICE.jpg" height="250" width="150"></th>
+  <th><img src="MGI/ICE.jpg" height="500" width="150"></th>
   <th><img src="MGI/tun.jpg" height="250" width="150"></th>
  </tr>
  <tr>
