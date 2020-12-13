@@ -17,7 +17,7 @@
 # Member
 <center><table>
   <tr>
-  <th><img src="img/great.jpg" height="150" width="130"></th>
+  <th><img src="MG/ARM.jpg" height="150" width="130"></th>
   <th><img src="img/tank.jpg" height="150" width="150"></th>
   <th><img src="img/ong.jpg" height="150" width="150"></th>
   <th><img src="img/tun.jpg" height="150" width="150"></th>
