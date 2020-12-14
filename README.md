@@ -59,6 +59,6 @@
 <a href=https://www.somkiat.cc/cleaning-data-with-pandas/>Pandas library</a><br />
 <a href=https://youtu.be/NWSckTiUq_E/>Pandas:Plot Styles</a>
 <a href=https://https:sites.google.com/site/kruchaipw4/hnwy-thi4-kar-cadkar-khxkhwam/>Project eSports Analysis</a><br />
-<a href=https://https:medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5/>Project eSports Analysis</a><br />
-<a href=https://http:html-language.blogspot.com/2008/02/background.html/>Project eSports Analysis</a><br />
-<a href=https://http:www.tutorialspoint.com/How-to-set-background-image-of-a-webpage?fbclid=IwAR2LH1WiZk32dBm8EwWf81OtxpsWzrVW3exe0y_2JXCAtP4A8oFgYKhDOU0/>Project eSports Analysis</a><br />
+<a href=https://sites.google.com/site/kruchaipw4/hnwy-thi4-kar-cadkar-khxkhwam/>Pandas:Plot Styles</a>
+<a href=https://youtu.be/NWSckTiUq_E/>Pandas:Plot Styles</a>
+<a href=https://youtu.be/NWSckTiUq_E/>Pandas:Plot Styles</a>
